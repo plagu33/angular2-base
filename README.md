@@ -2,7 +2,7 @@
 
 ### Comenzar desarrollo
 
-*Contiene 2 componentes basicos, routes.
+*Contiene 2 componentes basicos y routes para comenzar con lo basico.
 
 Instala los paquetes descritos en 'package.json' y verifica que funciona ;)
 
