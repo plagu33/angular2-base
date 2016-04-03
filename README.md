@@ -1,16 +1,19 @@
 # Angular 2 Base
 
-### Start development
+### Comenzar desarrollo
 
-Install the npm packages described in the `package.json` and verify that it works:
+*Contiene 2 componentes basicos, routes.
+
+Instala los paquetes descritos en 'package.json' y verifica que funciona ;)
 
 ```bash
 $ npm install
 $ npm start
 ```
-You're ready to write your application.
 
-Remember the npm scripts in `package.json`:
+Estas listo para comenzar con tu aplicación.
+
+Recuerda `package.json`:
 
 * `npm start` - runs the compiler and a server at the same time, both in "watch mode".
 * `npm run tsc` - runs the TypeScript compiler once.
